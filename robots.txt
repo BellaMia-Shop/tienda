@@ -1,0 +1,5 @@
+# robots.txt for BellaMia Shop
+User-agent: *
+Allow: /
+
+Sitemap: https://bellamiashop.bo/sitemap.xml
