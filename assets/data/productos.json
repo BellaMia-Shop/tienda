@@ -1,0 +1,1143 @@
+[
+  {
+    "id": 1,
+    "nombre": "Combo Gomitas de Vinagre de Sidra de Manzana 90 Unidades",
+    "marca": "Re Lierre",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 95,
+    "precioAnterior": 115,
+    "stock": 10,
+    "esOferta": true,
+    "imagen": "assets/img/products/re-lierre-combo-gomitas-de-vinagre-de-sidra-de-manzana-90-unidades-1.jpg",
+    "imagenes": [
+      "assets/img/products/re-lierre-combo-gomitas-de-vinagre-de-sidra-de-manzana-90-unidades-1.jpg",
+      "assets/img/products/re-lierre-combo-gomitas-de-vinagre-de-sidra-de-manzana-90-unidades-2.jpg",
+      "assets/img/products/re-lierre-combo-gomitas-de-vinagre-de-sidra-de-manzana-90-unidades-3.jpg"
+    ],
+    "etiqueta": "OFERTA",
+    "descripcion": "Combo de dos frascos de gomitas masticables de vinagre de sidra de manzana (60 + 30 unidades) que apoyan la digestión, el equilibrio metabólico y los niveles diarios de energía sin el sabor ácido del vinagre líquido.",
+    "ingredientes": [
+      "Vinagre de Sidra de Manzana",
+      "Vitamina B12",
+      "Extracto de Jengibre",
+      "Ácido Cítrico",
+      "Pectina Natural"
+    ],
+    "modoUso": "Consumir 2 gomitas al día como suplemento dietético, masticando completamente antes de tragar, preferiblemente antes o junto con las comidas. No exceder la dosis diaria recomendada.",
+    "contenido": "90 gomitas (1 frasco de 60 + 1 frasco de 30)",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Energía",
+      "Inmunidad",
+      "Digestión y Metabolismo"
+    ],
+    "sellos": [
+      "Vegano",
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 190,
+    "agotado": false
+  },
+  {
+    "id": 2,
+    "nombre": "Vitamina B12 En Gomitas 1000 Mcg Frambuesa",
+    "marca": "Vitafusion",
+    "categoria": "vitaminas",
+    "tipo": "Vitamina",
+    "precio": 120,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/vitafusion-vitamina-b12-en-gomitas-1000-mcg-frambuesa-1.jpg",
+    "imagenes": [
+      "assets/img/products/vitafusion-vitamina-b12-en-gomitas-1000-mcg-frambuesa-1.jpg",
+      "assets/img/products/vitafusion-vitamina-b12-en-gomitas-1000-mcg-frambuesa-2.jpg",
+      "assets/img/products/vitafusion-vitamina-b12-en-gomitas-1000-mcg-frambuesa-3.jpg"
+    ],
+    "etiqueta": "NUEVO",
+    "descripcion": "Gomitas masticables de vitamina B12 de alta potencia con delicioso sabor natural a frambuesa. Formuladas para apoyar la producción de energía celular y facilitar el metabolismo de grasas y proteínas.",
+    "ingredientes": [
+      "Vitamina B12 (como Cianocobalamina) 1000 mcg (por porción de 2 gomitas)",
+      "Jarabe de glucosa",
+      "Azúcar",
+      "Gelatina"
+    ],
+    "modoUso": "Adultos, tomar 2 gomitas al día como suplemento dietético, masticando completamente antes de tragar. No exceder la dosis sugerida. Consultar a un médico antes de usar si está embarazada, lactando o bajo supervisión médica.",
+    "contenido": "140 gomitas (70 porciones)",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Energía",
+      "Metabolismo Saludable",
+      "Salud Nerviosa"
+    ],
+    "sellos": [
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 210,
+    "agotado": false
+  },
+  {
+    "id": 3,
+    "nombre": "Mood + Stress Citrato De Magnesio 166 Mg Frambuesa",
+    "marca": "Natrol",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 110,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/natrol-mood-stress-citrato-de-magnesio-166-mg-frambuesa-1.jpg",
+    "imagenes": [
+      "assets/img/products/natrol-mood-stress-citrato-de-magnesio-166-mg-frambuesa-1.jpg",
+      "assets/img/products/natrol-mood-stress-citrato-de-magnesio-166-mg-frambuesa-2.jpg",
+      "assets/img/products/natrol-mood-stress-citrato-de-magnesio-166-mg-frambuesa-3.jpg"
+    ],
+    "etiqueta": "NUEVO",
+    "descripcion": "Gomitas masticables de citrato de magnesio de alta absorción con delicioso sabor a frambuesa. Formuladas para ayudar a calmar la mente, relajar los músculos y apoyar el equilibrio emocional ante el estrés ocasional.",
+    "ingredientes": [
+      "Magnesio (como Citrato de Magnesio) 166 mg (por porción de 2 gomitas)",
+      "Jarabe de tapioca orgánico",
+      "Azúcar de caña orgánica",
+      "Pectina"
+    ],
+    "modoUso": "Adultos, tomar 2 gomitas dos veces al día masticando completamente antes de tragar. No exceder el uso sugerido. Consultar a un profesional de la salud antes de usar si está embarazada, lactando, es menor de 18 años o toma medicamentos.",
+    "contenido": "60 gomitas (30 porciones)",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Calmante",
+      "Relajación Muscular",
+      "Equilibrio Emocional"
+    ],
+    "sellos": [
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 145,
+    "agotado": false
+  },
+  {
+    "id": 4,
+    "nombre": "Monohidrato De Creatina En Gomitas Sabor Fresa",
+    "marca": "Bageto",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 90,
+    "precioAnterior": 110,
+    "stock": 10,
+    "esOferta": true,
+    "imagen": "assets/img/products/bageto-monohidrato-de-creatina-en-gomitas-5000-mg-fresa-1.jpg",
+    "imagenes": [
+      "assets/img/products/bageto-monohidrato-de-creatina-en-gomitas-5000-mg-fresa-1.jpg",
+      "assets/img/products/bageto-monohidrato-de-creatina-en-gomitas-5000-mg-fresa-2.jpg",
+      "assets/img/products/bageto-monohidrato-de-creatina-en-gomitas-5000-mg-fresa-3.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Gomitas masticables de monohidrato de creatina pura con delicioso sabor a fresa y cero azúcar. Diseñadas para potenciar la fuerza, acelerar la recuperación muscular y maximizar el rendimiento deportivo sin necesidad de mezclar polvos.",
+    "ingredientes": [
+      "Monohidrato de Creatina",
+      "Pectina vegetal",
+      "Saborizantes naturales de fresa"
+    ],
+    "modoUso": "Adultos, consumir antes o después del entrenamiento, o según recomendación profesional. Mantener en un lugar fresco, seco y fuera del alcance de los niños.",
+    "contenido": "120 gomitas (30 porciones)",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Rendimiento Deportivo",
+      "Recuperación Muscular",
+      "Fuerza y Potencia"
+    ],
+    "sellos": [
+      "Sin Azúcar",
+      "Vegano",
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 180,
+    "agotado": false
+  },
+  {
+    "id": 5,
+    "nombre": "Discoloration Correcting Serum Antimanchas 30 Ml",
+    "marca": "Good Molecules",
+    "categoria": "skincare",
+    "tipo": "Serum",
+    "precio": 110,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/good-molecules-discoloration-correcting-serum-antimanchas-30-ml-1.jpg",
+    "imagenes": [
+      "assets/img/products/good-molecules-discoloration-correcting-serum-antimanchas-30-ml-1.jpg",
+      "assets/img/products/good-molecules-discoloration-correcting-serum-antimanchas-30-ml-2.jpg",
+      "assets/img/products/good-molecules-discoloration-correcting-serum-antimanchas-30-ml-3.jpg"
+    ],
+    "etiqueta": "TOP",
+    "descripcion": "Sérum facial ligero formulado con niacinamida al 4% y cetyl tranexamate mesylate al 3%. Mejora visiblemente la apariencia de la hiperpigmentación, marcas de acné y manchas oscuras para un tono de piel más uniforme y luminoso.",
+    "ingredientes": [
+      "Niacinamida 4.0%",
+      "Cetyl Tranexamate Mesylate 3.0%",
+      "Propanediol 10.0%",
+      "Glicerina 5.0%"
+    ],
+    "modoUso": "Aplicar unas gotas sobre la piel limpia por la mañana y por la noche antes de aceites y cremas hidratantes. Dejar absorber durante 30 segundos. Usar protector solar durante el día y evitar el contacto directo con los ojos.",
+    "contenido": "30 ml / 1 fl oz",
+    "tipoDePiel": [
+      "Todo Tipo de Piel"
+    ],
+    "beneficio": [
+      "Luminosidad",
+      "Hidratación",
+      "Unifica el Tono"
+    ],
+    "sellos": [
+      "Cruelty-Free",
+      "Vegano",
+      "Sin Fragancia"
+    ],
+    "rating": 4.9,
+    "reviews": 320,
+    "agotado": false
+  },
+  {
+    "id": 6,
+    "nombre": "Men+Care Thick + Strong Shampoo Y Acondicionador 2 En 1 355 Ml",
+    "marca": "Dove",
+    "categoria": "skincare",
+    "tipo": "Cuidado Capilar",
+    "precio": 38,
+    "precioAnterior": 45,
+    "stock": 2,
+    "esOferta": true,
+    "imagen": "assets/img/products/dove-mencare-thick-strong-shampoo-y-acondicionador-2-en-1-355-ml-1.jpg",
+    "imagenes": [
+      "assets/img/products/dove-mencare-thick-strong-shampoo-y-acondicionador-2-en-1-355-ml-1.jpg",
+      "assets/img/products/dove-mencare-thick-strong-shampoo-y-acondicionador-2-en-1-355-ml-2.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Shampoo y acondicionador 2 en 1 fortificante enriquecido con cafeína y calcio. Diseñado para limpiar profundamente y fortalecer la fibra capilar desde la raíz hasta las puntas, dejando el cabello visiblemente más grueso y resistente.",
+    "ingredientes": [
+      "Cafeína",
+      "Glicerofosfato de Calcio",
+      "Cocamidopropil Betaína",
+      "Cloruro de Guar Hidroxipropiltrimonio"
+    ],
+    "modoUso": "Aplicar sobre el cabello húmedo, masajear suavemente el cuero cabelludo hasta generar espuma y enjuagar con abundante agua. Apto para uso diario. Evitar el contacto con los ojos.",
+    "contenido": "355 ml / 12 fl oz",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Limpieza Profunda",
+      "Hidratación",
+      "Fortalecimiento Capilar"
+    ],
+    "sellos": [
+      "Cruelty-Free"
+    ],
+    "rating": 4.7,
+    "reviews": 203,
+    "agotado": false
+  },
+  {
+    "id": 7,
+    "nombre": "Silver & Glowing Acondicionador Matizador Con Biotina",
+    "marca": "Hair Biology",
+    "categoria": "skincare",
+    "tipo": "Cuidado Capilar",
+    "precio": 28,
+    "precioAnterior": 35,
+    "stock": 10,
+    "esOferta": true,
+    "imagen": "assets/img/products/hair-biology-silver-glowing-acondicionador-matizador-con-biotina-1.jpg",
+    "imagenes": [
+      "assets/img/products/hair-biology-silver-glowing-acondicionador-matizador-con-biotina-1.jpg",
+      "assets/img/products/hair-biology-silver-glowing-acondicionador-matizador-con-biotina-2.jpg",
+      "assets/img/products/hair-biology-silver-glowing-acondicionador-matizador-con-biotina-3.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Acondicionador matizador morado enriquecido con biotina, diseñado especialmente para cabello canoso, plateado o rubio. Nutre sin aportar peso, suaviza y neutraliza los tonos amarillentos para devolver un brillo plateado natural.",
+    "ingredientes": [
+      "Biotina",
+      "Alcohol Estearílico",
+      "Alcohol Cetílico",
+      "Pigmentos Violetas Matizadores"
+    ],
+    "modoUso": "Aplicar después del lavado sobre el cabello húmedo, masajeando suavemente de medios a puntas. Dejar actuar unos minutos y enjuagar completamente con abundante agua. Evitar el contacto con los ojos.",
+    "contenido": "380 ml / 12.8 fl oz",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Hidratación",
+      "Luminosidad",
+      "Matización de Tonos Amarillos"
+    ],
+    "sellos": [
+      "Sin Parabenos"
+    ],
+    "rating": 4.8,
+    "reviews": 195,
+    "agotado": false
+  },
+  {
+    "id": 8,
+    "nombre": "DoublexUp Hair, Skin & Nails Gomitas 6000 Mcg Biotina",
+    "marca": "Upbe",
+    "categoria": "vitaminas",
+    "tipo": "Vitamina",
+    "precio": 90,
+    "precioAnterior": 100,
+    "stock": 10,
+    "esOferta": true,
+    "imagen": "assets/img/products/upbe-doublexup-hair-skin-nails-gomitas-6000-mcg-biotina-1.jpg",
+    "imagenes": [
+      "assets/img/products/upbe-doublexup-hair-skin-nails-gomitas-6000-mcg-biotina-1.jpg",
+      "assets/img/products/upbe-doublexup-hair-skin-nails-gomitas-6000-mcg-biotina-2.jpg",
+      "assets/img/products/upbe-doublexup-hair-skin-nails-gomitas-6000-mcg-biotina-3.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Gomitas vegetarianas de doble capa con 6000 mcg de biotina, vitaminas, minerales y extractos herbales asiáticos. Diseñadas para fortalecer el cabello, mejorar la luminosidad de la piel y endurecer las uñas desde el interior.",
+    "ingredientes": [
+      "Biotina 6000 mcg",
+      "Vitamina C (Ácido Ascórbico) 20 mg",
+      "Vitamina E 15 mg",
+      "Zinc 5 mg",
+      "Mezcla Herbal Asiática (Ginseng, Amla, Cola de Caballo y Té Verde)"
+    ],
+    "modoUso": "Adultos, tomar 2 gomitas al día masticando completamente antes de tragar. No exceder la porción recomendada. Consultar a un profesional de la salud antes de usar si está embarazada, lactando o bajo tratamiento médico.",
+    "contenido": "60 gomitas (30 porciones)",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Luminosidad",
+      "Fortalecimiento Capilar",
+      "Uñas Fuertes"
+    ],
+    "sellos": [
+      "Vegano",
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 175,
+    "agotado": false
+  },
+  {
+    "id": 9,
+    "nombre": "White Skin Whitening Fade Spots Serum Antimanchas 50 Ml",
+    "marca": "Dr. Rashel",
+    "categoria": "skincare",
+    "tipo": "Serum",
+    "precio": 48,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/dr-rashel-white-skin-whitening-fade-spots-serum-antimanchas-50-ml-1.jpg",
+    "imagenes": [
+      "assets/img/products/dr-rashel-white-skin-whitening-fade-spots-serum-antimanchas-50-ml-1.jpg",
+      "assets/img/products/dr-rashel-white-skin-whitening-fade-spots-serum-antimanchas-50-ml-2.jpg",
+      "assets/img/products/dr-rashel-white-skin-whitening-fade-spots-serum-antimanchas-50-ml-3.jpg"
+    ],
+    "etiqueta": "NUEVO",
+    "descripcion": "Sérum facial aclarante formulado con arbutina y niacinamida. Reduce visiblemente la hiperpigmentación, atenúa manchas oscuras y unifica el tono, dejando la piel más suave, hidratada y luminosa.",
+    "ingredientes": [
+      "Arbutina",
+      "Niacinamida",
+      "Hialuronato de Sodio (Ácido Hialurónico)",
+      "Glicerina",
+      "Jugo de Hoja de Aloe Ferox"
+    ],
+    "modoUso": "Aplicar de 2 a 4 gotas sobre el rostro limpio por la mañana y por la noche, distribuyendo de manera uniforme en las zonas con manchas o decoloración hasta su completa absorción. Usar protector solar durante el día y evitar el contacto con los ojos.",
+    "contenido": "50 ml / 1.7 fl oz",
+    "tipoDePiel": [
+      "Todo Tipo de Piel"
+    ],
+    "beneficio": [
+      "Luminosidad",
+      "Hidratación",
+      "Atenúa Manchas Oscuras"
+    ],
+    "sellos": [
+      "No Comedogénico"
+    ],
+    "rating": 4.7,
+    "reviews": 190,
+    "agotado": false
+  },
+  {
+    "id": 10,
+    "nombre": "Extra Strength Ashwagandha 3000 Mg 90 Cápsulas",
+    "marca": "Nature’s Truth",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 120,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/natures-truth-extra-strength-ashwagandha-3000-mg-90-capsulas-1.jpg",
+    "imagenes": [
+      "assets/img/products/natures-truth-extra-strength-ashwagandha-3000-mg-90-capsulas-1.jpg",
+      "assets/img/products/natures-truth-extra-strength-ashwagandha-3000-mg-90-capsulas-2.jpg",
+      "assets/img/products/natures-truth-extra-strength-ashwagandha-3000-mg-90-capsulas-3.jpg"
+    ],
+    "etiqueta": "NUEVO",
+    "descripcion": "Suplemento herbal de ashwagandha extra fuerte en cápsulas de liberación rápida, potenciado con extracto de pimienta negra para una absorción superior. Apoya el bienestar general, el manejo del estrés y el equilibrio diario.",
+    "ingredientes": [
+      "Extracto de Raíz de Ashwagandha 300 mg (extracto 10:1 equivalente a 3000 mg por porción)",
+      "Extracto de Pimienta Negra 10 mg (estandarizado al 95% de piperina)",
+      "Polvo de Arroz",
+      "Cápsula de Gelatina"
+    ],
+    "modoUso": "Adultos, tomar 2 cápsulas de liberación rápida al día, preferiblemente acompañadas de una comida. Revisar siempre la etiqueta física antes de consumir y consultar a un médico si está embarazada, lactando o toma medicamentos.",
+    "contenido": "90 cápsulas (45 porciones)",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Calmante",
+      "Bienestar Herbal",
+      "Equilibrio Diario"
+    ],
+    "sellos": [
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 240,
+    "agotado": false
+  },
+  {
+    "id": 11,
+    "nombre": "Micronized Creatine Powder Sin Sabor 300 G",
+    "marca": "Optimum Nutrition",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 270,
+    "precioAnterior": 320,
+    "stock": 0,
+    "esOferta": true,
+    "imagen": "assets/img/products/optimum-nutrition-micronized-creatine-powder-sin-sabor-300-g-1.jpg",
+    "imagenes": [
+      "assets/img/products/optimum-nutrition-micronized-creatine-powder-sin-sabor-300-g-1.jpg",
+      "assets/img/products/optimum-nutrition-micronized-creatine-powder-sin-sabor-300-g-2.jpg",
+      "assets/img/products/optimum-nutrition-micronized-creatine-powder-sin-sabor-300-g-3.jpg"
+    ],
+    "etiqueta": "BEST SELLER",
+    "descripcion": "Monohidrato de creatina micronizada 100% pura en polvo sin sabor, diseñada para una mezcla rápida y sin grumos. Apoya el desarrollo de fuerza, potencia muscular y rendimiento deportivo en entrenamientos de alta intensidad.",
+    "ingredientes": [
+      "Monohidrato de Creatina 5 g (por porción de 1 cucharada redondeada)"
+    ],
+    "modoUso": "Agregar 1 cucharada redondeada (5 g) a un vaso con 240 a 350 ml de agua fría o tu bebida favorita y mezclar bien hasta disolver. Consumir una vez al día, antes o después del entrenamiento. Consultar a un médico antes de usar si está embarazada, lactando o toma medicamentos.",
+    "contenido": "300 g (60 servicios)",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Rendimiento Deportivo",
+      "Fuerza y Potencia",
+      "Recuperación Muscular"
+    ],
+    "sellos": [
+      "Sin Gluten",
+      "Sin Azúcar",
+      "Vegano"
+    ],
+    "rating": 4.9,
+    "reviews": 450,
+    "agotado": true
+  },
+  {
+    "id": 12,
+    "nombre": "Vitamin B Complex Líquido B12 5000 Mcg Frambuesa 60 Ml",
+    "marca": "Nusava",
+    "categoria": "vitaminas",
+    "tipo": "Vitamina",
+    "precio": 110,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/nusava-vitamin-b-complex-liquido-b12-5000-mcg-frambuesa-60-ml-1.jpg",
+    "imagenes": [
+      "assets/img/products/nusava-vitamin-b-complex-liquido-b12-5000-mcg-frambuesa-60-ml-1.jpg",
+      "assets/img/products/nusava-vitamin-b-complex-liquido-b12-5000-mcg-frambuesa-60-ml-2.jpg",
+      "assets/img/products/nusava-vitamin-b-complex-liquido-b12-5000-mcg-frambuesa-60-ml-3.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Suplemento líquido de complejo B vegano con sabor natural a frambuesa y alta absorción. Formulado con vitaminas B12, B6, B1, niacina y folato para impulsar la energía diaria, el enfoque mental y la salud cardiovascular.",
+    "ingredientes": [
+      "Vitamina B12 (como Metilcobalamina) 5000 mcg",
+      "Vitamina B6 (como Piridoxina HCl) 3.4 mg (3400 mcg)",
+      "Vitamina B1 (Tiamina como Mononitrato de Tiamina) 2.4 mg (2400 mcg)",
+      "Vitamina B3 (como Niacinamida) 16 mg",
+      "Folato (Ácido Fólico / Vitamina B9) 400 mcg DFE"
+    ],
+    "modoUso": "Adultos, tomar 1 gotero completo (1 ml) al día, directamente o mezclado con agua. Consultar a un profesional de la salud antes de usar para determinar la dosis adecuada si está embarazada, lactando o bajo tratamiento médico.",
+    "contenido": "60 ml / 2 fl oz (60 porciones)",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Energía",
+      "Claridad Mental",
+      "Salud Cardiovascular"
+    ],
+    "sellos": [
+      "Vegano",
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 190,
+    "agotado": false
+  },
+  {
+    "id": 13,
+    "nombre": "Wideawake Energía, Enfoque y Detox",
+    "marca": "Wonderblue",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 70,
+    "precioAnterior": 90,
+    "stock": 10,
+    "esOferta": true,
+    "imagen": "assets/img/products/wonderblue-wideawake-energia-enfoque-y-detox-1.jpg",
+    "imagenes": [
+      "assets/img/products/wonderblue-wideawake-energia-enfoque-y-detox-1.jpg",
+      "assets/img/products/wonderblue-wideawake-energia-enfoque-y-detox-2.jpg",
+      "assets/img/products/wonderblue-wideawake-energia-enfoque-y-detox-3.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Suplemento dietético en cápsulas vegetales diseñado para impulsar la energía diaria, la claridad mental y la depuración natural. Formulado con extracto de cardo mariano, taurina, cúrcuma C3 y guaraná.",
+    "ingredientes": [
+      "Extracto de Semilla de Cardo Mariano (250 mg)",
+      "Taurina (200 mg)",
+      "Complejo Curcumin C3 95% Curcuminoides (100 mg)",
+      "Extracto de Semilla de Guaraná (100 mg)",
+      "Vitamina C (30 mg)",
+      "Zinc y Selenio"
+    ],
+    "modoUso": "Tomar 2 cápsulas vegetales al día acompañadas de abundante agua, preferiblemente junto con una comida. No exceder la dosis diaria recomendada. Mantener fuera del alcance de los niños y consultar a un médico antes de usar si estás embarazada, lactando o bajo medicación.",
+    "contenido": "60 cápsulas",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Energía",
+      "Claridad Mental",
+      "Inmunidad"
+    ],
+    "sellos": [
+      "Vegano"
+    ],
+    "rating": 4.8,
+    "reviews": 85,
+    "agotado": false
+  },
+  {
+    "id": 14,
+    "nombre": "Canela de Ceilán Concentrada 2000 mg",
+    "marca": "Nature’s Truth",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 60,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/natures-truth-canela-de-ceilan-concentrada-2000-mg-1.jpg",
+    "imagenes": [
+      "assets/img/products/natures-truth-canela-de-ceilan-concentrada-2000-mg-1.jpg",
+      "assets/img/products/natures-truth-canela-de-ceilan-concentrada-2000-mg-2.jpg",
+      "assets/img/products/natures-truth-canela-de-ceilan-concentrada-2000-mg-3.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Suplemento herbal en cápsulas de liberación rápida con extracto concentrado de Canela de Ceilán 2000 mg. Ofrece apoyo antioxidante tradicional y contribuye al bienestar digestivo y metabólico diario.",
+    "ingredientes": [
+      "Canela de Ceilán Cinnamomum verum corteza (2000 mg equivalente de 200 mg de extracto 10:1)",
+      "Polvo de arroz",
+      "Cápsula de gelatina"
+    ],
+    "modoUso": "Para adultos, tomar 1 cápsula de liberación rápida al día, preferiblemente acompañada de una comida. No exceder la dosis recomendada. Consultar con un médico antes de usar si estás embarazada, lactando, tomando medicamentos o tienes alguna condición médica.",
+    "contenido": "60 cápsulas",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Digestión",
+      "Energía",
+      "Inmunidad"
+    ],
+    "sellos": [
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 140,
+    "agotado": false
+  },
+  {
+    "id": 15,
+    "nombre": "Ultra CoQ10 100 mg",
+    "marca": "Qunol",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 120,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/qunol-ultra-coq10-100-mg-1.jpg",
+    "imagenes": [
+      "assets/img/products/qunol-ultra-coq10-100-mg-1.jpg",
+      "assets/img/products/qunol-ultra-coq10-100-mg-2.jpg",
+      "assets/img/products/qunol-ultra-coq10-100-mg-3.jpg"
+    ],
+    "etiqueta": "TOP",
+    "descripcion": "Suplemento dietético de Coenzima Q10 100 mg en cápsulas blandas soluble en agua y grasa para una absorción 3 veces superior. Aporta protección antioxidante esencial, apoya la salud cardiovascular y favorece la producción natural de energía celular.",
+    "ingredientes": [
+      "Coenzima Q10 (100 mg)",
+      "Vitamina E como acetato de dl-alfa tocoferilo (68 mg)",
+      "Triglicéridos de cadena media"
+    ],
+    "modoUso": "Para adultos, tomar 1 cápsula blanda al día acompañada de alimentos, o según la recomendación de un profesional de la salud. No exceder la dosis diaria sugerida y mantener fuera del alcance de los niños.",
+    "contenido": "120 cápsulas blandas",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Energía",
+      "Inmunidad",
+      "Rendimiento Deportivo"
+    ],
+    "sellos": [
+      "Sin Gluten",
+      "Sin Azúcar"
+    ],
+    "rating": 4.9,
+    "reviews": 320,
+    "agotado": false
+  },
+  {
+    "id": 16,
+    "nombre": "Power Gummies Shilajit Sabor Citrus Berry",
+    "marca": "Susnen",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 50,
+    "precioAnterior": 70,
+    "stock": 10,
+    "esOferta": true,
+    "imagen": "assets/img/products/susnen-power-gummies-shilajit-sabor-citrus-berry-1.jpg",
+    "imagenes": [
+      "assets/img/products/susnen-power-gummies-shilajit-sabor-citrus-berry-1.jpg",
+      "assets/img/products/susnen-power-gummies-shilajit-sabor-citrus-berry-2.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Suplemento dietético en gomitas sabor Citrus Berry formulado con Shilajit puro, extracto de raíz de maca, taurina e inositol. Diseñado para potenciar la energía física, la vitalidad diaria y el rendimiento deportivo de forma práctica y deliciosa.",
+    "ingredientes": [
+      "Shilajit (1500 mg equivalente de extracto 10:1)",
+      "Extracto de Raíz de Maca (200 mg)",
+      "Taurina (100 mg)",
+      "Inositol (50 mg)",
+      "Niacina"
+    ],
+    "modoUso": "Tomar 2 gomitas masticables al día, preferiblemente por la mañana o antes de la actividad física. Masticar completamente antes de tragar y no exceder la dosis diaria recomendada. Consultar a un médico antes de usar si estás embarazada, lactando o bajo tratamiento médico.",
+    "contenido": "60 gomitas",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Energía",
+      "Rendimiento Deportivo",
+      "Inmunidad"
+    ],
+    "sellos": [
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 115,
+    "agotado": false
+  },
+  {
+    "id": 17,
+    "nombre": "Raíz de Jengibre 1500 mg",
+    "marca": "Horbäach",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 90,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/horbaach-raiz-de-jengibre-1500-mg-1.jpg",
+    "imagenes": [
+      "assets/img/products/horbaach-raiz-de-jengibre-1500-mg-1.jpg",
+      "assets/img/products/horbaach-raiz-de-jengibre-1500-mg-2.jpg",
+      "assets/img/products/horbaach-raiz-de-jengibre-1500-mg-3.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Suplemento herbal en cápsulas de liberación rápida con 1500 mg equivalentes de raíz de jengibre por porción. Apoya la digestión saludable, alivia el malestar estomacal ocasional y refuerza el bienestar diario.",
+    "ingredientes": [
+      "Mezcla patentada de Raíz de Jengibre Zingiber officinale (1500 mg equivalente por porción)",
+      "Extracto 4:1 de Raíz de Jengibre",
+      "Polvo de Raíz de Jengibre"
+    ],
+    "modoUso": "Para adultos, tomar 2 cápsulas de liberación rápida al día, preferiblemente acompañadas de una comida. No exceder la dosis diaria recomendada. Consultar con un médico antes de usar si estás embarazada, lactando, tomando medicamentos o tienes alguna condición médica.",
+    "contenido": "150 cápsulas",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Digestión",
+      "Inmunidad",
+      "Calmante"
+    ],
+    "sellos": [
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 195,
+    "agotado": false
+  },
+  {
+    "id": 18,
+    "nombre": "Desodorante Corporal Invisible Spray Mandarina Limpia",
+    "marca": "Lumé",
+    "categoria": "skincare",
+    "tipo": "Cuidado Corporal",
+    "precio": 25,
+    "precioAnterior": 28,
+    "stock": 10,
+    "esOferta": true,
+    "imagen": "assets/img/products/lume-desodorante-corporal-invisible-spray-mandarina-limpia-1.jpg",
+    "imagenes": [
+      "assets/img/products/lume-desodorante-corporal-invisible-spray-mandarina-limpia-1.jpg",
+      "assets/img/products/lume-desodorante-corporal-invisible-spray-mandarina-limpia-2.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Desodorante en spray invisible de uso corporal completo con ácido mandélico que controla el mal olor hasta por 72 horas. Fórmula suave libre de aluminio y bicarbonato, ideal para axilas, zona íntima externa y pies.",
+    "ingredientes": [
+      "Ácido Mandélico",
+      "Triglicérido Caprílico/Cáprico",
+      "Coco-Caprilato",
+      "Cafeína",
+      "Ácido Cítrico"
+    ],
+    "modoUso": "Agita bien antes de usar y rocía a una distancia de 15 cm sobre la piel limpia y seca en axilas, debajo del busto, zona íntima externa o pies. Uso únicamente externo; evita aplicar sobre piel irritada o recién depilada.",
+    "contenido": "102 g / 3.6 oz",
+    "tipoDePiel": [
+      "Todo Tipo de Piel",
+      "Piel Sensible"
+    ],
+    "beneficio": [
+      "Calmante",
+      "Limpieza Profunda",
+      "Control de Olor 72h"
+    ],
+    "sellos": [
+      "Sin Parabenos",
+      "Cruelty-Free",
+      "Dermatológicamente Testeado"
+    ],
+    "rating": 4.8,
+    "reviews": 215,
+    "agotado": false
+  },
+  {
+    "id": 19,
+    "nombre": "Gomitas de Luteína y Zeaxantina 60 Unidades",
+    "marca": "AAZ",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 110,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/aaz-gomitas-de-luteina-y-zeaxantina-60-unidades-1.jpg",
+    "imagenes": [
+      "assets/img/products/aaz-gomitas-de-luteina-y-zeaxantina-60-unidades-1.jpg",
+      "assets/img/products/aaz-gomitas-de-luteina-y-zeaxantina-60-unidades-2.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Suplemento dietético en gomitas con luteína y zeaxantina que protege la salud ocular y la función macular. Ideal para cuidar la vista frente al uso prolongado de pantallas y dispositivos digitales.",
+    "ingredientes": [
+      "Luteína 6 mg",
+      "Zeaxantina",
+      "Vitamina C",
+      "Vitamina E",
+      "Zinc"
+    ],
+    "modoUso": "Consumir 2 gomitas al día como suplemento dietético, masticando bien antes de tragar, preferiblemente junto con una comida. No exceder la dosis diaria recomendada.",
+    "contenido": "60 gomitas",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Salud Ocular",
+      "Protección Luz Azul",
+      "Claridad Mental"
+    ],
+    "sellos": [
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 140,
+    "agotado": false
+  },
+  {
+    "id": 20,
+    "nombre": "Acondicionador Bond Plex 5",
+    "marca": "Revolution Haircare London",
+    "categoria": "skincare",
+    "tipo": "Cuidado Capilar",
+    "precio": 120,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/revolution-haircare-london-acondicionador-bond-plex-5-1.jpg",
+    "imagenes": [
+      "assets/img/products/revolution-haircare-london-acondicionador-bond-plex-5-1.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Acondicionador reparador con sistema de cascada de proteínas de triple peso molecular, fitantriol y provitamina B5 que nutre, fortalece y suaviza profundamente la fibra capilar dañada.",
+    "ingredientes": [
+      "Sistema de Cascada de Proteínas de Triple Peso Molecular",
+      "Fitantriol",
+      "Provitamina B5 (Pantenol)",
+      "Proteínas Vegetales Hidrolizadas"
+    ],
+    "modoUso": "Aplicar una pequeña cantidad sobre el cabello limpio y húmedo de medios a puntas después del champú, llevando hacia la raíz si es necesario. Dejar actuar unos minutos y enjuagar con abundante agua tibia. Evitar el contacto directo con los ojos.",
+    "contenido": "250 ml / 8.45 fl oz",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Hidratación",
+      "Reparación Capilar",
+      "Fortalecimiento"
+    ],
+    "sellos": [
+      "Cruelty-Free",
+      "Vegano"
+    ],
+    "rating": 4.8,
+    "reviews": 150,
+    "agotado": false
+  },
+  {
+    "id": 21,
+    "nombre": "Complejo de Berberina 3 en 1 con Canela de Ceilán y Cúrcuma 1500 mg",
+    "marca": "ElevateLife",
+    "categoria": "suplementos",
+    "tipo": "Suplemento",
+    "precio": 155,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/elevatelife-complejo-de-berberina-3-en-1-con-canela-de-ceilan-y-curcuma-1500-mg-1.jpg",
+    "imagenes": [
+      "assets/img/products/elevatelife-complejo-de-berberina-3-en-1-con-canela-de-ceilan-y-curcuma-1500-mg-1.jpg",
+      "assets/img/products/elevatelife-complejo-de-berberina-3-en-1-con-canela-de-ceilan-y-curcuma-1500-mg-2.jpg"
+    ],
+    "etiqueta": "NUEVO",
+    "descripcion": "Suplemento en cápsulas vegetales con 1500 mg de complejo de berberina HCl, canela de Ceilán y cúrcuma. Apoya el metabolismo saludable de la glucosa, la salud cardiovascular y el sistema inmunológico.",
+    "ingredientes": [
+      "Berberina HCl 500 mg",
+      "Canela de Ceilán 500 mg (equivalente de extracto 10:1)",
+      "Cúrcuma (Curcuma longa) 500 mg"
+    ],
+    "modoUso": "Tomar 2 cápsulas al día como suplemento dietético, preferiblemente junto con una comida y un vaso de agua. No exceder la dosis recomendada; verifica siempre la etiqueta física del envase antes de consumir.",
+    "contenido": "120 cápsulas (60 servicios)",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Inmunidad",
+      "Energía",
+      "Apoyo Metabólico y Cardiovascular"
+    ],
+    "sellos": [
+      "Vegano",
+      "Sin Gluten"
+    ],
+    "rating": 4.8,
+    "reviews": 175,
+    "agotado": false
+  },
+  {
+    "id": 22,
+    "nombre": "Acondicionador Desenredante Sin Enjuague 7SECONDS 236 ml",
+    "marca": "UNITE",
+    "categoria": "skincare",
+    "tipo": "Cuidado Capilar",
+    "precio": 90,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/unite-acondicionador-desenredante-sin-enjuague-7seconds-236-ml-1.jpg",
+    "imagenes": [
+      "assets/img/products/unite-acondicionador-desenredante-sin-enjuague-7seconds-236-ml-1.jpg",
+      "assets/img/products/unite-acondicionador-desenredante-sin-enjuague-7seconds-236-ml-2.jpg"
+    ],
+    "etiqueta": "TOP",
+    "descripcion": "Acondicionador desenredante ligero sin enjuague con proteína hidrolizada de arroz y pantenol que suaviza y sella la cutícula al instante. Aporta brillo, fortalece la fibra capilar y protege el cabello contra el calor y los rayos UV.",
+    "ingredientes": [
+      "Proteína Hidrolizada de Arroz",
+      "Pantenol (Pro-Vitamina B5)",
+      "Amodimeticona",
+      "Alcohol Cetearílico"
+    ],
+    "modoUso": "Rocía de 4 a 6 pulsaciones sobre el cabello húmedo y limpio, distribuye suavemente con un peine desde medios hasta puntas y no enjuagues. Peina como de costumbre; apto para uso diario y cabello teñido.",
+    "contenido": "236 ml / 8 fl oz",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Hidratación",
+      "Luminosidad",
+      "Protección Térmica y UV"
+    ],
+    "sellos": [
+      "Vegano",
+      "Cruelty-Free",
+      "Sin Parabenos"
+    ],
+    "rating": 4.9,
+    "reviews": 1400,
+    "agotado": false
+  },
+  {
+    "id": 23,
+    "nombre": "Tratamiento Restaurador Bond Plex 3",
+    "marca": "Revolution Haircare London",
+    "categoria": "skincare",
+    "tipo": "Cuidado Capilar",
+    "precio": 110,
+    "precioAnterior": null,
+    "stock": 10,
+    "esOferta": false,
+    "imagen": "assets/img/products/revolution-haircare-london-tratamiento-restaurador-bond-plex-3-1.jpg",
+    "imagenes": [
+      "assets/img/products/revolution-haircare-london-tratamiento-restaurador-bond-plex-3-1.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Tratamiento intensivo previo al champú con sistema de cascada de proteínas de triple peso molecular, fitantriol y provitamina B5 que repara, fortalece y suaviza la fibra capilar.",
+    "ingredientes": [
+      "Sistema de Cascada de Proteínas de Triple Peso Molecular",
+      "Fitantriol",
+      "Provitamina B5 (Pantenol)",
+      "Proteínas Vegetales Hidrolizadas"
+    ],
+    "modoUso": "Aplicar sobre el cabello húmedo secado con toalla antes del champú y dejar actuar de 10 a 15 minutos, o toda la noche para un tratamiento más profundo. Enjuagar bien y lavar con champú y acondicionador de una a dos veces por semana. Evitar el contacto con los ojos.",
+    "contenido": "100 ml / 3.38 fl oz",
+    "tipoDePiel": [],
+    "beneficio": [
+      "Hidratación",
+      "Reparación Capilar",
+      "Fortalecimiento"
+    ],
+    "sellos": [
+      "Cruelty-Free",
+      "Vegano"
+    ],
+    "rating": 4.8,
+    "reviews": 180,
+    "agotado": false
+  },
+  {
+    "id": 24,
+    "nombre": "Crema Hidratante Restauradora 48 Horas",
+    "marca": "La Roche-Posay",
+    "categoria": "skincare",
+    "tipo": "Hidratante",
+    "precio": 220,
+    "precioAnterior": 270,
+    "stock": 12,
+    "esOferta": true,
+    "imagen": "assets/img/products/cream.jpg",
+    "imagenes": [
+      "assets/img/products/cream.jpg",
+      "assets/img/products/texture-cream.jpg",
+      "assets/img/products/lifestyle-cream.jpg"
+    ],
+    "etiqueta": "NUEVO",
+    "descripcion": "Crema facial ultra-nutritiva formulada con manteca de karité pura y agua termal prebiótica de La Roche-Posay. Calma la irritación, restaura la barrera cutánea y proporciona confort duradero sin sensación grasa.",
+    "ingredientes": [
+      "Agua Termal Prebiótica",
+      "Manteca de Karité",
+      "Niacinamida (Vitamina B3)",
+      "Ceramida NP",
+      "Glicerina"
+    ],
+    "modoUso": "Aplicar una pequeña cantidad sobre rostro y cuello limpios por la mañana y por la noche. Masajear suavemente con movimientos circulares ascendentes hasta su total absorción.",
+    "contenido": "50 ml / 1.7 fl oz",
+    "tipoDePiel": [
+      "Piel Seca",
+      "Piel Sensible",
+      "Piel Normal"
+    ],
+    "beneficio": [
+      "Hidratación",
+      "Calmante",
+      "Anti-Edad"
+    ],
+    "sellos": [
+      "Dermatológicamente Testeado",
+      "Sin Fragancia",
+      "Sin Parabenos"
+    ],
+    "rating": 4.9,
+    "reviews": 310,
+    "agotado": false
+  },
+  {
+    "id": 25,
+    "nombre": "Protector Solar Fluido Invisible SPF 50+",
+    "marca": "ISDIN",
+    "categoria": "skincare",
+    "tipo": "Protector Solar",
+    "precio": 195,
+    "precioAnterior": 235,
+    "stock": 10,
+    "esOferta": true,
+    "imagen": "assets/img/products/sunscreen.jpg",
+    "imagenes": [
+      "assets/img/products/sunscreen.jpg",
+      "assets/img/products/texture-sunscreen.jpg",
+      "assets/img/products/lifestyle-cream.jpg"
+    ],
+    "etiqueta": "BEST SELLER",
+    "descripcion": "Fotoprotector facial diario de base acuosa ultraligera que se absorbe al instante sin dejar residuo blanco ni brillo. Brinda muy alta protección SPF 50+ contra radiación UVA, UVB y luz azul.",
+    "ingredientes": [
+      "Filtros Solares UVA/UVB Amplio Espectro",
+      "Ácido Hialurónico",
+      "Vitamina E Antioxidante",
+      "Polímeros Matificantes"
+    ],
+    "modoUso": "Aplicar generosamente sobre el rostro y cuello limpios 30 minutos antes de la exposición al sol. Reaplicar cada 2 horas o después de sudar, nadar o secarse con toalla. Último paso de la rutina matutina.",
+    "contenido": "50 ml / 1.7 fl oz",
+    "tipoDePiel": [
+      "Todo Tipo de Piel",
+      "Piel Grasa",
+      "Piel Mixta",
+      "Piel Sensible"
+    ],
+    "beneficio": [
+      "Protección Solar",
+      "Anti-Edad",
+      "Luminosidad"
+    ],
+    "sellos": [
+      "No Comedogénico",
+      "Sin Aceite",
+      "Dermatológicamente Testeado"
+    ],
+    "rating": 5,
+    "reviews": 480,
+    "agotado": false
+  },
+  {
+    "id": 26,
+    "nombre": "Tónico Facial Calmante con Centella Asiática",
+    "marca": "SKIN1004",
+    "categoria": "skincare",
+    "tipo": "Tónico",
+    "precio": 110,
+    "precioAnterior": 140,
+    "stock": 8,
+    "esOferta": true,
+    "imagen": "assets/img/products/toner.jpg",
+    "imagenes": [
+      "assets/img/products/toner.jpg",
+      "assets/img/products/texture-cleanser.jpg",
+      "assets/img/products/serum.jpg"
+    ],
+    "etiqueta": null,
+    "descripcion": "Tónico facial enriquecido con extracto puro de Centella Asiática de Madagascar y PHA de exfoliación suave. Equilibra el pH de la piel, calma rojeces y prepara los poros para absorber mejor los sérums posteriores.",
+    "ingredientes": [
+      "Extracto de Centella Asiática 84%",
+      "Gluconolactona (PHA)",
+      "Ácido Hialurónico",
+      "Niacinamida",
+      "Betaína"
+    ],
+    "modoUso": "Después de la limpieza, humedecer un disco de algodón o verter directamente en las palmas limpias y dar suaves toquecitos sobre rostro y cuello hasta su absorción. Usar mañana y noche.",
+    "contenido": "210 ml / 7.1 fl oz",
+    "tipoDePiel": [
+      "Piel Sensible",
+      "Piel con Acné",
+      "Todo Tipo de Piel"
+    ],
+    "beneficio": [
+      "Calmante",
+      "Hidratación",
+      "Limpieza Profunda"
+    ],
+    "sellos": [
+      "Cruelty-Free",
+      "Sin Fragancia",
+      "Sin Parabenos"
+    ],
+    "rating": 4.8,
+    "reviews": 220,
+    "agotado": false
+  },
+  {
+    "id": 27,
+    "nombre": "Limpiador Facial Hidratante con 3 Ceramidas Esenciales",
+    "marca": "CeraVe",
+    "categoria": "skincare",
+    "tipo": "Hidratante",
+    "precio": 130,
+    "precioAnterior": 160,
+    "stock": 15,
+    "esOferta": true,
+    "imagen": "assets/img/products/cleanser.jpg",
+    "imagenes": [
+      "assets/img/products/cleanser.jpg",
+      "assets/img/products/texture-cleanser.jpg",
+      "assets/img/products/lifestyle-cleanser.jpg"
+    ],
+    "etiqueta": "TOP",
+    "descripcion": "Loción limpiadora no espumosa que elimina suavemente impurezas y restos de maquillaje mientras hidrata y respeta la barrera protectora de la piel con tecnología MVE de liberación continua.",
+    "ingredientes": [
+      "Ceramidas 1, 3 y 6-II",
+      "Ácido Hialurónico",
+      "Glicerina",
+      "Colesterol",
+      "Fitosfingosina"
+    ],
+    "modoUso": "Mojar el rostro con agua tibia. Masajear el limpiador sobre la piel con movimientos circulares suaves durante 30 segundos y enjuagar abundantemente. Secar sin frotar. Mañana y noche.",
+    "contenido": "236 ml / 8 fl oz",
+    "tipoDePiel": [
+      "Piel Seca",
+      "Piel Normal",
+      "Piel Sensible"
+    ],
+    "beneficio": [
+      "Limpieza Profunda",
+      "Hidratación",
+      "Calmante"
+    ],
+    "sellos": [
+      "Dermatológicamente Testeado",
+      "Sin Fragancia",
+      "No Comedogénico"
+    ],
+    "rating": 4.9,
+    "reviews": 650,
+    "agotado": false
+  },
+  {
+    "id": 28,
+    "nombre": "Sérum Ácido Hialurónico Puro 2% + B5",
+    "marca": "The Ordinary",
+    "categoria": "skincare",
+    "tipo": "Serum",
+    "precio": 90,
+    "precioAnterior": null,
+    "stock": 14,
+    "esOferta": false,
+    "imagen": "assets/img/products/serum.jpg",
+    "imagenes": [
+      "assets/img/products/serum.jpg",
+      "assets/img/products/texture-serum.jpg",
+      "assets/img/products/lifestyle-serum.jpg"
+    ],
+    "etiqueta": "BEST SELLER",
+    "descripcion": "Fórmula avanzada de hidratación con tres formas de ácido hialurónico de diferente peso molecular y provitamina B5. Penetra en profundidad para retener la humedad, aportar elasticidad y efecto relleno visible.",
+    "ingredientes": [
+      "Hialuronato de Sodio (Alto, Medio y Bajo Peso Molecular)",
+      "Provitamina B5 (Pantenol)",
+      "Polímero Cruzado de Hialuronato",
+      "Pentilenglicol"
+    ],
+    "modoUso": "Aplicar unas pocas gotas en el rostro por la mañana y por la noche antes de cremas hidratantes y aceites. Aplicar sobre la piel ligeramente húmeda para maximizar la hidratación.",
+    "contenido": "30 ml / 1 fl oz",
+    "tipoDePiel": [
+      "Todo Tipo de Piel",
+      "Piel Seca",
+      "Piel Mixta"
+    ],
+    "beneficio": [
+      "Hidratación",
+      "Anti-Edad",
+      "Luminosidad"
+    ],
+    "sellos": [
+      "Vegano",
+      "Cruelty-Free",
+      "Sin Siliconas"
+    ],
+    "rating": 4.9,
+    "reviews": 1150,
+    "agotado": false
+  }
+]
